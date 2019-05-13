@@ -2,10 +2,10 @@
 This shapefile was compiled by the Princeton Gerrymandering Project and edited by the Metric Geometry and Gerrymandering Group (MGGG).
 
 ## Sources
-The precinct shapefile with election results comes from the Princeton Gerrymandering Project (available here https://github.com/PrincetonUniversity/VA-gerrymander/tree/master/Maps/VA%20Precincts/Precincts%20with%20CD/Elections). Demographic data at the block level are from IPUMS NHGIS (available here https://www.nhgis.org). Shapefiles for Virginia’s congressional, delegate, and senate districts were downloaded from the Commonwealth of Virginia’s Division of Legislative Services (available here http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx).
+The precinct shapefile with election results comes from the [Princeton Gerrymandering Project](https://github.com/PrincetonUniversity/VA-gerrymander/tree/master/Maps/VA%20Precincts/Precincts%20with%20CD/Elections). Demographic data at the block level are from [IPUMS NHGIS](https://www.nhgis.org). Shapefiles for Virginia’s congressional, delegate, and senate districts were downloaded from the [Commonwealth of Virginia’s Division of Legislative Services](http://redistricting.dls.virginia.gov/2010/RedistrictingPlans.aspx).
 
 ## Processing
-Demographic data were aggregated from the block level to precincts using MGGG’s proration software (available here https://github.com/mggg/maup). Congressional, house, and senate district IDs were assigned to precincts also using this package.
+Demographic data were aggregated from the block level to precincts using MGGG’s [proration software] (https://github.com/mggg/maup). Congressional, house, and senate district IDs were assigned to precincts also using this package.
 
 ## Metadata
 * `precinct`: Precinct name
